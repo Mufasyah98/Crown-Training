@@ -103,6 +103,8 @@ By the end of this programme, participants should be able to:
 
 ## 🌟 Day 1: Foundation and collaboration
 
+<a id="module-1--microsoft-365-ecosystem-and-application-integration"></a>
+
 ### Module 1 🧠 — Microsoft 365 ecosystem and application integration
 **9:00–9:45 AM**
 
@@ -121,6 +123,8 @@ By the end of this programme, participants should be able to:
 4. Propose three improvements using Microsoft 365 applications.
 
 **✅ Expected output:** current-state workflow and three integration opportunities.
+
+<a id="module-2--onedrive-and-sharepoint-cloud-storage-sharing-and-version-control"></a>
 
 ### Module 2 ☁️ — OneDrive and SharePoint: cloud storage, sharing and version control
 **9:45–11:00 AM**
@@ -148,6 +152,8 @@ By the end of this programme, participants should be able to:
 
 ### Break — 11:00–11:15 AM
 
+<a id="module-3--microsoft-teams-as-an-integration-hub"></a>
+
 ### Module 3 💬 — Microsoft Teams as an integration hub
 **11:15 AM–12:30 PM**
 
@@ -168,6 +174,8 @@ By the end of this programme, participants should be able to:
 **✅ Expected output:** structured collaborative workspace and two tracked actions.
 
 ### Lunch — 12:30–1:30 PM
+
+<a id="module-4--outlook-calendar-to-do-and-planner"></a>
 
 ### Module 4 📅 — Outlook, Calendar, To Do and Planner
 **1:30–3:00 PM**
@@ -193,6 +201,8 @@ By the end of this programme, participants should be able to:
 **Important:** Not every To Do item is automatically a Planner task. Identify which steps are integrated, manual, or require automation.
 
 ### Break — 3:00–3:15 PM
+
+<a id="module-5--microsoft-forms-and-microsoft-lists"></a>
 
 ### Module 5 📝 — Microsoft Forms and Microsoft Lists
 **3:15–4:30 PM**
@@ -221,6 +231,8 @@ Check your Workflow Audit Canvas, finish outstanding lab tasks, and identify one
 
 ## ⚡ Day 2: Integration automation and governance
 
+<a id="module-6--cross-application-document-workflows-word-excel-and-powerpoint"></a>
+
 ### Module 6 📊 — Cross-application document workflows: Word, Excel and PowerPoint
 **9:00–10:00 AM**
 
@@ -243,6 +255,8 @@ Check your Workflow Audit Canvas, finish outstanding lab tasks, and identify one
 **✅ Expected output:** Excel source, Word report, PowerPoint slide and mail-merge sample.
 
 **Caution:** Web and desktop experiences differ; embedded objects and linked content may require the desktop application and a valid source path. Validate updates before presenting numbers as current.
+
+<a id="module-7--excel-in-microsoft-365-and-power-query"></a>
 
 ### Module 7 🟢 — Excel in Microsoft 365 and Power Query
 **10:00–11:00 AM**
@@ -267,6 +281,8 @@ Check your Workflow Audit Canvas, finish outstanding lab tasks, and identify one
 **Quality check:** Do not silently guess whether discounts are gross or net; document uncertainties and escalate them.
 
 ### Break — 11:00–11:15 AM
+
+<a id="module-8--power-automate-routine-workflow-automation"></a>
 
 ### Module 8 🔁 — Power Automate: routine workflow automation
 **11:15 AM–12:30 PM**
@@ -299,6 +315,8 @@ Check your Workflow Audit Canvas, finish outstanding lab tasks, and identify one
 **Caution:** Available connectors, action names, permissions and licence entitlements vary by tenant. Avoid premium-only features in the core lab; consult IT if a connector/action is blocked.
 
 ### Lunch — 12:30–1:30 PM
+
+<a id="module-9--microsoft-365-security-governance-and-pdpa-awareness"></a>
 
 ### Module 9 🛡️ — Microsoft 365 security, governance and PDPA awareness
 **1:30–2:45 PM**
